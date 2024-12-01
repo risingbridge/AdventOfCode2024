@@ -6,6 +6,7 @@ Not the most elegant or efficiant ways, but it kinda works.
 Stars count: 2 :star: 
 
 All projects have at least two input-files. debug.txt uses the example-data from the puzzle, and input.txt uses actual puzzle input.
+The input.txt-file is not included here, get the input from Adventofcode.com
 
 Day 01: 2 :star:  
 Day 02: 0 :star:  
