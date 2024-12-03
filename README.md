@@ -3,14 +3,14 @@ My take on Advent of Code 2024
 
 Not the most elegant or efficiant ways, but it kinda works.
 
-Stars count: 4 :star: 
+Stars count: 6 :star: 
 
 All projects have at least two input-files. debug.txt uses the example-data from the puzzle, and input.txt uses actual puzzle input.
 The input.txt-file is not included here, get the input from Adventofcode.com
 
 Day 01: 2 :star:  
 Day 02: 2 :star:  
-Day 03: 0 :star:  
+Day 03: 2 :star:  
 Day 04: 0 :star:  
 Day 05: 0 :star:  
 Day 06: 0 :star:  
